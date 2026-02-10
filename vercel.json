@@ -1,10 +1,5 @@
 {
-    "buildCommand": "npm run build",
-    "outputDirectory": "out",
     "framework": "nextjs",
-    "regions": [
-        "iad1"
-    ],
     "env": {
         "NEXT_PUBLIC_API_URL": "https://portfolio22-api.osamashaer66.workers.dev"
     }
