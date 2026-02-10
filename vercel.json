@@ -1,5 +1,6 @@
 {
     "framework": "nextjs",
+    "outputDirectory": ".next",
     "env": {
         "NEXT_PUBLIC_API_URL": "https://portfolio22-api.osamashaer66.workers.dev"
     }

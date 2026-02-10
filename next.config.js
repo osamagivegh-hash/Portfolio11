@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // output: 'export', // Removed for Vercel standard deployment
-  trailingSlash: true,
   images: {
     unoptimized: true
   },
